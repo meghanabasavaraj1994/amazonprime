@@ -55,7 +55,7 @@ function ImageSlider() {
                     </div>
                 
                     <div className="details">
-                        <h2>Jalsa<span className="job-title">Watch now</span></h2>
+                        <h2>Jalsa<span className="job-title">Watch this Movie</span></h2>
                     </div>
                 </div>
             </div>
