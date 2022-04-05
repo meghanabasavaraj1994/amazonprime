@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -36,3 +37,55 @@
     transform: rotate(360deg);
   }
 }
+
+#navbarScrollingDropdown {
+  color: white;
+}
+
+.App {
+  background-color: #282c34;
+}
+.Movies {
+ background-color: #282c34;
+}
+
+.Container1 {
+  margin-top: 50px;
+}
+.Container2 {
+  margin-top: 50px;
+}
+
+.Movie1 {
+  width: 100%;
+  height: 250px;
+}
+.Movie2 {
+  width: 100%;
+  height: 250px;
+}
+.Movie3 {
+  width: 100%;
+  height: 250px;
+}
+.Movie4 {
+  width: 100%;
+  height: 250px;
+}
+.Movie5 {
+  width: 100%;
+  height: 250px;
+}
+.Movie6 {
+  width: 100%;
+  height: 250px;
+}
+
+.prime {
+height: 100px;
+}
+
+
+
+
+
